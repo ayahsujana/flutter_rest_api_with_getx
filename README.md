@@ -1,6 +1,6 @@
-# tubewithgetx
+# restapiwithgetx
 
-A new Flutter project.
+Ini hanya project flutter sederhana dalam hal menerapkan state management menggunakan GetX.
 
 ## Getting Started
 
